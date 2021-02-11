@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p,h1,h2,h3,h4,h5,h6,ul,ol{
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a,a:hover{
+    text-decoration: none;
+}
+body{
+    background: gray;
+}
+
+/* .section{
+    height: 100vh;
+} */
+.section.s1{
+    background: red;
+}
+.section.s2{
+    background: greenyellow;
+}
+.section.s3{
+    background: honeydew;
+}
+.section.s4{
+    background: khaki;
+}
+.section.s5{
+    background: rgb(48, 159, 173);
+}
